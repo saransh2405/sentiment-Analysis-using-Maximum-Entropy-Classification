@@ -1,0 +1,468 @@
+Reviewing A man with a magnanimous spirit helps a mute girl from Pakistan return home. 
+
+
+
+ Normal classification  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+3 11 8
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+9 5 -4
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+2 12 10
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+0 14 14
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+11 3 -8
+ Without Punctuations  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+3 11 8
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+9 5 -4
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+2 12 10
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+0 14 14
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+11 3 -8
+ Without Stop Words  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+1 9 8
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+5 9 4
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+2 12 10
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+1 13 12
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+8 6 -2
+ With Lemmatizer  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+3 11 8
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+9 5 -4
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+2 12 10
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+0 14 14
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+11 3 -8
+Reviewing Forced out of his own company by former Darren Cross, Dr. Hank Pym (Michael Douglas) recruits the talents of Scott Lang (Paul Rudd), a master thief just released from prison. Lang becomes Ant-Man, trained by Pym and armed with a suit that allows him to shrink in size, possess superhuman strength and control an army of ants. The miniature hero must use his new skills to prevent Cross, also known as Yellowjacket, from perfecting the same technology and using it as a weapon for evil. 
+
+
+
+ Normal classification  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+43 42 -1
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+58 27 -31
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+26 59 33
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+14 71 57
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+68 17 -51
+ Without Punctuations  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+43 42 -1
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+55 30 -25
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+27 58 31
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+17 68 51
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+68 17 -51
+ Without Stop Words  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+25 28 3
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+45 40 -5
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+30 55 25
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+18 67 49
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+55 30 -25
+ With Lemmatizer  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+43 42 -1
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+58 27 -31
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+26 59 33
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+14 71 57
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+68 17 -51
+Reviewing Parents need to know that kids may clamor to see this fast-paced, action-packed comic book-based adventure. But it's definitely more age-appropriate for teens than younger children. Although much of the violence is clearly meant to be based in the realm of sci-fi and fantasy -- and/or is shown at a distance -- there's plenty of it, from massive explosions to children held at gunpoint to super-powered fistfights. Some of the violence is war themed, and some characters get hurt and/or die. While much is made of lead character Tony Stark's devil-may-care lifestyle of fun and frolic, viewers also see him turn away from the more irresponsible aspects of playboyhood. Language is minimal, and sexual content is more suggested than shown overall -- though there are a few eyebrow-raising moments. 
+
+
+
+ Normal classification  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+80 49 -31
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+97 32 -65
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+33 96 63
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+17 112 95
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+107 22 -85
+ Without Punctuations  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+80 49 -31
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+94 35 -59
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+34 95 61
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+20 109 89
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+104 25 -79
+ Without Stop Words  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+41 41 0
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+82 47 -35
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+38 91 53
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+21 108 87
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+92 37 -55
+ With Lemmatizer  
+
+
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.500
+         Final          -0.69263        0.941
+80 49 -31
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.487
+         Final          -0.69263        0.983
+97 32 -65
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.513
+         Final          -0.69260        0.776
+33 96 63
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.526
+         Final          -0.69256        0.600
+17 112 95
+  ==> Training (2 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.474
+         Final          -0.69262        0.940
+107 22 -85

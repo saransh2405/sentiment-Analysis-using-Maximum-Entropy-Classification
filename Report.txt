@@ -1,0 +1,20 @@
+Brief details about input and output:
+
+The input is the movies corpus as defined in the nltk package for training data and 3 reviews of small medium and large sizes from IMDB for different movies.
+
+Output is which review is being analysed, the training result and Negetive words classified, positive words classified and a difference between the two where the sign indicates if the sentiment analysis was positive or negetive for a review.
+
+
+Algorithm:
+For each review I did MEC (maximum entropy classification) on different criterias i.e. length of negetive and positive reviews while training, reviews without any punctuations, without any stop words and with all the words lemmatized.
+
+
+Interpretation of results:
+
+General Trend:
+
+	As the size of the training data was reduced for any of the positive or negetive Reviews. I saw the results being biased in the same direction. Removing punctuation didn't affect the results much but lemmatization and removing stop words from training data did affect the results to an extent.
+
+Special Trends
+	Small Input Movie Review was affected the most when changes were made like removing stop words etc. because there were very few words the percentage increase or decrease in the ratio of pos and neg words wasn't minute. 
+
